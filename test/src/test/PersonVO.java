@@ -13,6 +13,7 @@ public class PersonVO {
 	}
 	public void setGender(String gender) {
 		this.gender = gender;
+
 	}
 	public int getAge() {
 		return age;
